@@ -1,7 +1,7 @@
 # hexagonal-clock
 
 | ![13-segment-framed-clock](13-segment-framed-clock.gif) | ![13-segment-framed-clock](13-segment-framed-clock.jpg) |
-| --- |:---:| 
+| ------- |:---:| 
 
 - DS1307 RTC 
 - Manual brightness control
